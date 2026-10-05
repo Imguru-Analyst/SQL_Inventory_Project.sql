@@ -86,9 +86,6 @@ Compared categories and subcategories based on sales, units sold, damaged units,
 
 This project helped strengthen practical SQL skills by applying **aggregate functions, grouping, sorting, string formatting, and business-oriented data analysis** to a retail inventory dataset.
 
-## 📁 Project File
-
-`SQL_Inventry_Project.sql`
 
 ## 👨‍💻 Author
 
