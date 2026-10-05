@@ -88,7 +88,7 @@ This project helped strengthen practical SQL skills by applying **aggregate func
 
 ## 📁 Project File
 
-`SQL_Inventory_Project.sql`
+`SQL_Inventry_Project.sql`
 
 ## 👨‍💻 Author
 
